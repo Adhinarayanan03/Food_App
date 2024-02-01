@@ -1,0 +1,85 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/app_images/amazonpay.png",
+      "sha1": "4ec7050dda251f228cb2b9a5220cc986099dd3c7"
+    },
+    {
+      "path": "src/assets/app_images/gpay.png",
+      "sha1": "039fbff59306d5e4300ef7614d796844345575af"
+    },
+    {
+      "path": "src/assets/app_images/homeScreen.png",
+      "sha1": "9ecb8e2388076295ccd3be0b7c6b40357c7cfc34"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Regular (1).ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Thin 2.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "src/assets/fonts/app_icons.ttf",
+      "sha1": "18e5fe2f93c853bbb495975f04df56438d595de5"
+    },
+    {
+      "path": "src/assets/food_assets/1.1.jpeg",
+      "sha1": "0437829136e30cac14e7577931c40348bb4fb751"
+    },
+    {
+      "path": "src/assets/food_assets/1.2.jpeg",
+      "sha1": "af19c1e838c2f65be1b1e3f69d00c0426076c143"
+    },
+    {
+      "path": "src/assets/food_assets/1.jpeg",
+      "sha1": "573bc930a41da5737ef3101254ac9e9622dd6f64"
+    },
+    {
+      "path": "src/assets/food_assets/2.1.jpeg",
+      "sha1": "e060e625fa890cdafb203bfdf4f2f1d97c304a4f"
+    },
+    {
+      "path": "src/assets/food_assets/2.2.jpeg",
+      "sha1": "b215760a204b3965941cf448e03d63d79cb48b10"
+    },
+    {
+      "path": "src/assets/food_assets/2.jpeg",
+      "sha1": "e8cfe1b2b74c81fe53bf82b1ed3d69f36934a8ea"
+    },
+    {
+      "path": "src/assets/food_assets/3.1.jpeg",
+      "sha1": "bacf895c4cf5eb48b8444481bacac8b9e3d1bda8"
+    },
+    {
+      "path": "src/assets/food_assets/3.2.jpeg",
+      "sha1": "109158f870a4472c00c6a5da278abe7840ac3a0b"
+    },
+    {
+      "path": "src/assets/food_assets/3.jpeg",
+      "sha1": "245c28dcefe57f7ec3d265d71ccdb39e1112f3ef"
+    }
+  ]
+}
